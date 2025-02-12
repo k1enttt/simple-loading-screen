@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# A Simple loading screen
+
+A simple loading screen was built using CSS @keyframes Rule and GSAP framework.
+
 ## Getting Started
 
 First, run the development server:
